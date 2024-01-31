@@ -4,5 +4,4 @@
 
 <p>Exercise_1<p>
 
-[Ver código de exercise_1.js](exercise_1.js)
-
+[Ver código de exercise_1.js en la rama develop](https://github.com/SantiagoJDM95/Oracle_Foro_Material/blob/Logica_programacion_foro/exercise_1.js)
