@@ -6,4 +6,4 @@
 
 <h2>Logica de programación<h2>
 
-[Ver código de exercise_1.js en la rama Logica_programacion_foro](https://github.com/SantiagoJDM95/Oracle_Foro_Material/blob/Logica_programacion_foro/exercise_1.js)
+[Ver ejercicios de Logica de programacion](https://github.com/SantiagoJDM95/Oracle_Foro_Material/tree/Logica_programacion_foro)
